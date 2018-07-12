@@ -1,0 +1,25 @@
+{
+  "name": "insai-news-service",
+  "version": "1.0.0",
+  "description": "News Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "express",
+    "jest",
+    "hackernews",
+    "node"
+  ],
+  "author": "markdyousef",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "jest": "^23.4.0"
+  }
+}
